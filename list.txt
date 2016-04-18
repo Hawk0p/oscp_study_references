@@ -1,0 +1,97 @@
+Key Requirement
+You should be comfortable with scripting. 
+You should be comfortable with Linux and Windows command line syntax. 
+You should be familiar with Assembly and a debugger
+
+1) Info Gathering/Enumeration
+
+Enumeration cheatsheet
+http://www.0daysecurity.com/penetration-testing/enumeration.html
+
+NMAP 101
+https://www.youtube.com/watch?v=iUZ6nTMO8K0&list=PLW5y1tjAOzI0ZLv7YfQtToQmc0yVDfkKO
+
+2) Web application Pentest 101
+
+OWASP Testing Guide Version 4
+https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
+
+Web Application Pen-testing Tutorials With Mutillidae 
+http://www.irongeek.com/i.php?page=videos/web-application-pen-testing-tutorials-with-mutillidae
+
+
+3) Exploitation
+
+a) Using Public Exploit
+
+Finding exploit code
+http://www.exploit-db.com
+http://1337day.com
+http://www.securiteam.com
+http://www.securityfocus.com
+http://www.exploitsearch.net
+http://metasploit.com/modules/
+http://securityreason.com
+http://seclists.org/fulldisclosure/
+
+Programming 101 (Need to debug public exploit code)
+
+http://www.tutorialspoint.com/cprogramming/
+http://www.tutorialspoint.com/cplusplus/
+http://www.tutorialspoint.com/python/
+http://www.tutorialspoint.com/perl/
+http://www.tutorialspoint.com/ruby/
+http://www.tutorialspoint.com/assembly_programming/
+
+
+b) Using metasploit (free)
+
+SecurityTube Metasploit Framework Expert (SMFE) Course Material
+http://www.securitytube.net/groups?operation=view&groupId=10
+
+Free Online Security Training – Metasploit Unleashed
+https://www.offensive-security.com/metasploit-unleashed/
+
+c) Developing own exploit
+
+Securitysift Exploit development series
+http://www.securitysift.com/windows-exploit-development-part-1-basics/
+http://www.securitysift.com/windows-exploit-development-part-2-intro-stack-overflow/
+http://www.securitysift.com/windows-exploit-development-part-3-changing-offsets-and-rebased-modules/
+http://www.securitysift.com/windows-exploit-development-part-4-locating-shellcode-jumps/
+http://www.securitysift.com/windows-exploit-development-part-5-locating-shellcode-egghunting/
+http://www.securitysift.com/windows-exploit-development-part-6-seh-exploits/
+
+Exploit Research Megaprimer
+http://www.securitytube.net/groups?operation=view&groupId=7
+
+Buffer Overflow Exploitation Megaprimer for Linux
+http://www.securitytube.net/groups?operation=view&groupId=4
+
+4) Post Exploitation and Privilege Escalation
+
+Windows Privilege Escalation Fundamentals
+https://www.fuzzysecurity.com/tutorials/16.html
+
+Basic Linux Privilege Escalation
+https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+
+Post Exploitation Hacking
+https://www.cybrary.it/course/post-exploitation-hacking/
+
+Post exploitation using msf pivot & port fwd
+https://www.sans.org/reading-room/whitepapers/testing/post-exploitation-metasploit-pivot-port-33909
+
+SSH Meterpreter Pivoting
+https://highon.coffee/blog/ssh-meterpreter-pivoting-techniques/
+
+ssh pivoting
+http://stevendcampbell.blogspot.sg/2015/08/how-to-use-ssh-pivoting-with-metasploit.html
+
+
+5) Praticse Playground
+
+https://www.vulnhub.com/
+
+
+
